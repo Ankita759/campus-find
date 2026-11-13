@@ -41,15 +41,7 @@ Campus-Find aims to address this problem through a digital Lost and Found platfo
 
 This project was developed collaboratively as part of our CSE326 coursework.
 
-### My Contribution
 
-My responsibilities included:
-
-- Project planning and organisation.
-- Documentation and project requirements.
-- Presentation preparation and delivery.
-- Participating in project testing.
-- Team coordination and collaboration.
 
 ## 🚀 Future Improvements
 
